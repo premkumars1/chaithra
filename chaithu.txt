@@ -1,0 +1,22 @@
+class demo2
+{
+ public ststic void main [String(ar)]
+	{
+	 int flag=0;
+	int a[]={10,20,30,40};
+	int key=80:
+	for(inti=0:i<a.length;i++)
+	{
+	 if(key==a[i]) 
+	  {
+	    flag=1;
+	    break;
+        }
+       else
+          continue;
+      }
+       if
+		
+	
+	
+	
